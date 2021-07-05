@@ -1,0 +1,18 @@
+
+fn build() {
+    print("    Building Koi...")
+    cargo build
+}
+
+fn install() {
+    cargo install --path .
+}
+
+fn test() {
+    cargo test
+}
+
+fn check() {
+    cargo check
+}
+
