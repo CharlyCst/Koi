@@ -1,3 +1,0 @@
-true && false °5# false°
-false || true °5# true°
-!true         °5# false°

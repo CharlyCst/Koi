@@ -1,6 +1,0 @@
-°1let° cond = 2 + 2 == 4
-°1if° cond {
-    ls -l
-}
-
-docker ps -aq
